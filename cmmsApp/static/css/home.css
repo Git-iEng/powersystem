@@ -913,3 +913,13 @@ a {
   text-decoration: none !important;
   font-weight: 700; /* makes it bold */
 }
+#overview,
+#products,
+#gallery,
+#about-us,
+#contact {
+  scroll-margin-top: 120px;
+}
+section {
+  scroll-margin-top: 120px;
+}
